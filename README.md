@@ -1,4 +1,4 @@
-This project is basically a users list with ant design and redux
+This project is basically a users contact book with React,  Ant design and Redux
 
 ## Available Scripts
 
